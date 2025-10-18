@@ -20,19 +20,41 @@ export default function Home() {
                 </div>
             </section>
 
-            <section className="states">
-                <div className="container states-grid">
-                    <div className="state-card one">
-                        <h3>29.6M</h3>
-                        <p className="muted">Total Downloads</p>
+            <section style={{ textAlign: 'center' }}>
+                <div className="container">
+                    <img
+                        src="/src/assets/appImage/hero.png"
+                        alt="Hero App"
+                        style={{
+                            width: '100%',
+                            maxWidth: '600px',
+                            height: 'auto',
+                            margin: '0 auto'
+                        }}
+                    />
+                </div>
+            </section>
+
+            <section className="stats-section">
+                <h2 className="stats-title">Trusted By Millions, Built For You</h2>
+
+                <div className="stats-grid">
+                    <div className="stat-card">
+                        <h3 className="stat-number">29.6M</h3>
+                        <p className="stat-label">Total Downloads</p>
+                        <p className="stat-note">21% More Than Last Month</p>
                     </div>
-                    <div className="state-card two">
-                        <h3>906K</h3>
-                        <p className="muted">Total Reviews</p>
+
+                    <div className="stat-card">
+                        <h3 className="stat-number">906K</h3>
+                        <p className="stat-label">Total Reviews</p>
+                        <p className="stat-note">46% More Than Last Month</p>
                     </div>
-                    <div className="state-card three">
-                        <h3>132+</h3>
-                        <p className="muted">Active Apps</p>
+
+                    <div className="stat-card">
+                        <h3 className="stat-number">132+</h3>
+                        <p className="stat-label">Active Apps</p>
+                        <p className="stat-note">31 More Will Launch</p>
                     </div>
                 </div>
             </section>
