@@ -1,0 +1,530 @@
+[
+    {
+        "image": "/src/assets/appImage/demo-app (1).webp",
+        "title": "Forest: Focus For Productivity",
+        "companyName": "productivity.io",
+        "id": 1,
+        "description": "A calm pomodoro-style focus app with a tree-growing mechanic to help you stay focused.",
+        "size": 25,
+        "reviews": 54000,
+        "ratingAvg": 4.8,
+        "downloads": 9000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 800
+            },
+            {
+                "name": "2 star",
+                "count": 1200
+            },
+            {
+                "name": "3 star",
+                "count": 3500
+            },
+            {
+                "name": "4 star",
+                "count": 6200
+            },
+            {
+                "name": "5 star",
+                "count": 11000
+            }
+        ]
+    },
+    {
+        "image": "/src/assets/appImage/demo-app (2).webp",
+        "title": "SmPlan:ToDo List With Reminder",
+        "companyName": "productive.io",
+        "id": 2,
+        "description": "A lightweight to-do app with reminders, widgets and analytics.",
+        "size": 291,
+        "reviews": 54000,
+        "ratingAvg": 4.9,
+        "downloads": 8000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 600
+            },
+            {
+                "name": "2 star",
+                "count": 900
+            },
+            {
+                "name": "3 star",
+                "count": 2800
+            },
+            {
+                "name": "4 star",
+                "count": 5600
+            },
+            {
+                "name": "5 star",
+                "count": 11500
+            }
+        ]
+    },
+    {
+        "image": "/src/assets/appImage/demo-app (3).webp",
+        "title": "FLIP - Focus Timer For Study",
+        "companyName": "studytools",
+        "id": 3,
+        "description": "A simple study timer with streaks and dark theme.",
+        "size": 18,
+        "reviews": 21000,
+        "ratingAvg": 4.6,
+        "downloads": 6500000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 400
+            },
+            {
+                "name": "2 star",
+                "count": 700
+            },
+            {
+                "name": "3 star",
+                "count": 2000
+            },
+            {
+                "name": "4 star",
+                "count": 4200
+            },
+            {
+                "name": "5 star",
+                "count": 8000
+            }
+        ]
+    },
+    {
+        "image": "/src/assets/appImage/demo-app (4).webp",
+        "title": "Pomocat - Cute Pomodoro Timer",
+        "companyName": "focuslab",
+        "id": 4,
+        "description": "Cute visuals and relaxing sounds with pomodoro timer.",
+        "size": 33,
+        "reviews": 12000,
+        "ratingAvg": 4.7,
+        "downloads": 4900000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 300
+            },
+            {
+                "name": "2 star",
+                "count": 500
+            },
+            {
+                "name": "3 star",
+                "count": 1100
+            },
+            {
+                "name": "4 star",
+                "count": 3400
+            },
+            {
+                "name": "5 star",
+                "count": 7600
+            }
+        ]
+    },
+    {
+        "image": "/src/assets/appImage/demo-app (5).webp",
+        "title": "Time Planner: Schedule & Tasks",
+        "companyName": "schedule.me",
+        "id": 5,
+        "description": "Calendar + tasks hybrid with smart scheduling.",
+        "size": 44,
+        "reviews": 8700,
+        "ratingAvg": 4.5,
+        "downloads": 3600000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 500
+            },
+            {
+                "name": "2 star",
+                "count": 900
+            },
+            {
+                "name": "3 star",
+                "count": 1400
+            },
+            {
+                "name": "4 star",
+                "count": 2600
+            },
+            {
+                "name": "5 star",
+                "count": 5200
+            }
+        ]
+    },
+    {
+        "image": "/src/assets/appImage/demo-app (6).webp",
+        "title": "Morning Habits - Daily Routine",
+        "companyName": "habitly",
+        "id": 6,
+        "description": "Build morning routines with habit tracking and reminders.",
+        "size": 28,
+        "reviews": 7100,
+        "ratingAvg": 4.4,
+        "downloads": 3100000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 450
+            },
+            {
+                "name": "2 star",
+                "count": 800
+            },
+            {
+                "name": "3 star",
+                "count": 1200
+            },
+            {
+                "name": "4 star",
+                "count": 2200
+            },
+            {
+                "name": "5 star",
+                "count": 4600
+            }
+        ]
+    },
+    {
+        "image": "/src/assets/appImage/demo-app (1).webp",
+        "title": "Focus Plant: Pomodoro Forest",
+        "companyName": "greenapps",
+        "id": 7,
+        "description": "Gamified pomodoro with plant collection rewards.",
+        "size": 30,
+        "reviews": 5800,
+        "ratingAvg": 4.3,
+        "downloads": 2700000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 380
+            },
+            {
+                "name": "2 star",
+                "count": 700
+            },
+            {
+                "name": "3 star",
+                "count": 1000
+            },
+            {
+                "name": "4 star",
+                "count": 1900
+            },
+            {
+                "name": "5 star",
+                "count": 4200
+            }
+        ]
+    },
+    {
+        "image": "/src/assets/appImage/demo-app (2).webp",
+        "title": "Alarmy - Alarm Clock & Sleep",
+        "companyName": "wakeup",
+        "id": 8,
+        "description": "Smart alarms with puzzles to wake you up properly.",
+        "size": 34,
+        "reviews": 13200,
+        "ratingAvg": 4.2,
+        "downloads": 4200000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 900
+            },
+            {
+                "name": "2 star",
+                "count": 1200
+            },
+            {
+                "name": "3 star",
+                "count": 1600
+            },
+            {
+                "name": "4 star",
+                "count": 3400
+            },
+            {
+                "name": "5 star",
+                "count": 7300
+            }
+        ]
+    },
+    {
+        "image": "/src/assets/appImage/demo-app (3).webp",
+        "title": "Focus Notes - Minimal Editor",
+        "companyName": "notely",
+        "id": 9,
+        "description": "Minimal distraction-free editor for notes during focus sessions.",
+        "size": 10,
+        "reviews": 4200,
+        "ratingAvg": 4.6,
+        "downloads": 1800000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 120
+            },
+            {
+                "name": "2 star",
+                "count": 210
+            },
+            {
+                "name": "3 star",
+                "count": 450
+            },
+            {
+                "name": "4 star",
+                "count": 1100
+            },
+            {
+                "name": "5 star",
+                "count": 2600
+            }
+        ]
+    },
+    {
+        "image": "/src/assets/appImage/demo-app (4).webp",
+        "title": "StudyAid - Flashcards & Timer",
+        "companyName": "studytools",
+        "id": 10,
+        "description": "Flashcards + timer combos to make revision efficient.",
+        "size": 22,
+        "reviews": 3500,
+        "ratingAvg": 4.1,
+        "downloads": 1500000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 220
+            },
+            {
+                "name": "2 star",
+                "count": 300
+            },
+            {
+                "name": "3 star",
+                "count": 670
+            },
+            {
+                "name": "4 star",
+                "count": 1000
+            },
+            {
+                "name": "5 star",
+                "count": 2300
+            }
+        ]
+    },
+    {
+        "image": "/src/assets/appImage/demo-app (5).webp",
+        "title": "HabitTrack - Build Habits",
+        "companyName": "habitly",
+        "id": 11,
+        "description": "Streaks and analytics to keep habits consistent.",
+        "size": 15,
+        "reviews": 2600,
+        "ratingAvg": 4.0,
+        "downloads": 1200000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 170
+            },
+            {
+                "name": "2 star",
+                "count": 250
+            },
+            {
+                "name": "3 star",
+                "count": 480
+            },
+            {
+                "name": "4 star",
+                "count": 730
+            },
+            {
+                "name": "5 star",
+                "count": 1100
+            }
+        ]
+    },
+    {
+        "image": "/src/assets/appImage/demo-app (6).webp",
+        "title": "FocusSounds - White Noise",
+        "companyName": "soundlab",
+        "id": 12,
+        "description": "Background sounds to help you focus: rain, cafe, white noise.",
+        "size": 44,
+        "reviews": 3400,
+        "ratingAvg": 4.4,
+        "downloads": 1700000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 80
+            },
+            {
+                "name": "2 star",
+                "count": 160
+            },
+            {
+                "name": "3 star",
+                "count": 400
+            },
+            {
+                "name": "4 star",
+                "count": 950
+            },
+            {
+                "name": "5 star",
+                "count": 1800
+            }
+        ]
+    },
+    {
+        "image": "/src/assets/appImage/demo-app (1).webp",
+        "title": "FocusPal - Study Buddy",
+        "companyName": "studytools",
+        "id": 13,
+        "description": "Study routines that adapt to your usage patterns.",
+        "size": 27,
+        "reviews": 2900,
+        "ratingAvg": 4.3,
+        "downloads": 1250000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 60
+            },
+            {
+                "name": "2 star",
+                "count": 200
+            },
+            {
+                "name": "3 star",
+                "count": 430
+            },
+            {
+                "name": "4 star",
+                "count": 900
+            },
+            {
+                "name": "5 star",
+                "count": 1600
+            }
+        ]
+    },
+    {
+        "image": "/src/assets/appImage/demo-app (1).webp",
+        "title": "DeepWork - Focus Sessions",
+        "companyName": "productivity.io",
+        "id": 14,
+        "description": "Long-form focus sessions for deep work with distraction blocking.",
+        "size": 60,
+        "reviews": 7200,
+        "ratingAvg": 4.7,
+        "downloads": 3500000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 250
+            },
+            {
+                "name": "2 star",
+                "count": 400
+            },
+            {
+                "name": "3 star",
+                "count": 800
+            },
+            {
+                "name": "4 star",
+                "count": 2200
+            },
+            {
+                "name": "5 star",
+                "count": 8400
+            }
+        ]
+    },
+    {
+        "image": "/src/assets/appImage/demo-app (2).webp",
+        "title": "QuickNotes - Sticky Notes",
+        "companyName": "notely",
+        "id": 15,
+        "description": "Quick sticky notes and widgets for reminders.",
+        "size": 12,
+        "reviews": 2100,
+        "ratingAvg": 4.2,
+        "downloads": 900000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 90
+            },
+            {
+                "name": "2 star",
+                "count": 180
+            },
+            {
+                "name": "3 star",
+                "count": 380
+            },
+            {
+                "name": "4 star",
+                "count": 580
+            },
+            {
+                "name": "5 star",
+                "count": 900
+            }
+        ]
+    },
+    {
+        "image": "/src/assets/appImage/demo-app (3).webp",
+        "title": "FocusHQ - Productivity Suite",
+        "companyName": "greenapps",
+        "id": 16,
+        "description": "All-in-one productivity tools — timer, notes and task manager.",
+        "size": 95,
+        "reviews": 9200,
+        "ratingAvg": 4.6,
+        "downloads": 4100000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 450
+            },
+            {
+                "name": "2 star",
+                "count": 700
+            },
+            {
+                "name": "3 star",
+                "count": 1100
+            },
+            {
+                "name": "4 star",
+                "count": 3500
+            },
+            {
+                "name": "5 star",
+                "count": 9800
+            }
+        ]
+    }
+]
