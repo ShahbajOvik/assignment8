@@ -31,15 +31,17 @@ export default function MyInstallation() {
             ) : (
                 <div className="apps-grid">
                     {installedApps.map(app => (
-                        <div key={app.id} className="app-card">
+                        <div key={app.id} className="app-card" style={{ cursor: 'pointer' }} onClick={() => window.location.href = `/apps/${app.id}`}>
                             <img src={app.image} alt={app.title} />
                             <h3>{app.title}</h3>
                             <p className="muted">{app.companyName}</p>
                             <div className="app-card-actions">
-                                <Link to={`/apps/${app.id}`} className="btn">View Details</Link>
                                 <button
                                     className="btn danger"
-                                    onClick={() => handleUninstall(app.id, app.title)}
+                                    onClick={(e) => {
+                                        e.stopPropagation();
+                                        handleUninstall(app.id, app.title);
+                                    }}
                                 >
                                     Uninstall
                                 </button>
